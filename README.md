@@ -25,5 +25,10 @@ The platform serves as a **decision support system** that:
 
 
 
+---
+
+### Terms of usage
 
 This repository is published for demonstration purposes only. All rights reserved. Unauthorized use, distribution, or replication of any part of this software is strictly prohibited.
+
+---
